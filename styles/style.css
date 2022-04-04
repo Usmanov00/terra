@@ -74,7 +74,7 @@ a {
 
 }
 
-.find-text{
+.find-text {
     color: #ffffff;
     font-size: 15px;
     line-height: 1.3;
@@ -86,13 +86,13 @@ a {
 
 }
 
-.green-img{
+.green-img {
     width: 70%;
     position: relative;
     left: -47px;
 }
 
-.green-img span{
+.green-img span {
     position: absolute;
     left: 122px;
     top: 62px;
@@ -107,53 +107,53 @@ a {
     border-style: solid;
 }
 
-.about-container{
+.about-container {
     padding-top: 50px;
 }
 
 
-.about-box{
+.about-box {
     padding: 0 70px 30px;
 }
 
-.title{
+.title {
     font-size: 30px;
     margin-bottom: 30px;
 }
 
-.row{
+.row {
     display: flex;
     flex-wrap: wrap;
     margin: 0 -15px;
 }
 
-.col-4{
+.col-4 {
     display: flex;
     width: 33.33333%;
     padding: 0 15px;
 }
 
-.about-padding{
+.about-padding {
     padding-bottom: 50px;
 }
 
-.about-text{
+.about-text {
     color: #fff;
     font-family: 'Source Code Pro', monospace;
     font-size: 16px;
 }
 
-.subtitle span{
+.subtitle span {
     font-family: 'Source Code Pro', monospace;
     line-height: 25px;
     font-size: 18px;
 }
 
-.ourCourse-container{
+.ourCourse-container {
     padding: 150px 0 0;
 }
 
-.course-box{
+.course-box {
     display: flex;
     text-align: center;
 
@@ -179,15 +179,15 @@ a {
 
 }
 
-.course-title{
-    padding:10px 0 0  50px;
+.course-title {
+    padding: 10px 0 0 50px;
 }
 
-.course-title{
+.course-title {
     text-align: start;
     color: #ffffff;
     font-size: 16px;
-    font-family: 'Source Code Pro',Arial,sans-serif;
+    font-family: 'Source Code Pro', Arial, sans-serif;
     line-height: 1.55;
     font-weight: 300;
     background-position: center center;
@@ -195,13 +195,13 @@ a {
     border-style: solid;
 }
 
-.course-header{
+.course-header {
     color: #fff;
     text-align: center;
     margin-bottom: 50px;
     padding-left: -10px;
     font-size: 30px;
-    font-family: 'Russo One',Arial,sans-serif;
+    font-family: 'Russo One', Arial, sans-serif;
     line-height: 1.55;
     font-weight: 400;
     letter-spacing: 2px;
@@ -210,22 +210,23 @@ a {
     border-style: solid;
 }
 
-.course-register{
+.course-register {
     position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
 }
-.course-register img{
+
+.course-register img {
     width: 40%;
 }
 
-.course-register p{
+.course-register p {
     position: absolute;
     color: #fff;
     font-size: 30px;
-    font-family: 'Russo One',Arial,sans-serif;
+    font-family: 'Russo One', Arial, sans-serif;
     line-height: 1.55;
     font-weight: 400;
     letter-spacing: 3px;
@@ -235,28 +236,107 @@ a {
     border-style: solid;
 }
 
-.founder-container{
+.founder-container {
     max-width: 1010px;
     color: #fff;
 }
 
-.founder-img{
+.founder-img {
     width: 40%;
 
 }
 
-.founder-box{
-    top: -100px;
-    left: 0;
-
+.founder-box {
+    margin-bottom: 30px;
 }
 
-.img-img{
+.img-img {
     width: 40%;
     border: 4px solid #bcd5ab;
     border-radius: 50%;
     box-shadow: 2px -1px 25px #269312;
 }
+
+.founder h3 {
+    margin-bottom: 10px;
+}
+
+.founder p {
+    font-size: 16px;
+    font-family: 'Source Code Pro', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 300;
+}
+
+.contacts-container {
+    padding: 100px 0 0;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.contacts-img {
+    width: 90%;
+}
+
+.contacts-title{
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: start;
+
+}
+
+.content-center{
+    text-align: center;
+}
+
+.telegram{
+
+}
+
+.telegram img {
+    text-align: center;
+    width: 50%;
+}
+
+.pointer{
+    width: 40%;
+    position: inherit;
+}
+
+.pointer img{
+    left: 415px;
+    top: -184px;
+    position: relative;
+}
+
+
+.content-center p{
+    margin-top: -50px;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Source Code Pro', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+}
+
+u{
+    color: #7d9ad2;
+}
+
+.btn{
+    padding: 10px;
+    margin: 50px;
+    font-size: 18px;
+    background-color: #7d9ad2;
+    color: #fff;
+    border: #7d9ad2;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+
 
 
 
