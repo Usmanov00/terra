@@ -1,8 +1,5 @@
 @media (max-width: 576px){
 
-    *{
-        font-size: 12px!important;
-    }
 
     .menu-link {
         font-size: 12px !important;
@@ -19,6 +16,10 @@
         padding-top: 18px !important;
     }
 
+    .pointer{
+        display: none;
+    }
+
     .find-title h2{
         font-size: 30px;
 
@@ -29,7 +30,7 @@
     }
 
     .find-text {
-        font-size: 10px !important;
+        font-size: 9px !important;
         line-height: 1.3 !important;
         padding-top: 20px !important;
         width: 200px!important;
@@ -38,13 +39,13 @@
     .green-img {
         width: 35% !important;
         left: -13px!important;
-        top: 20px;
+        top: -20px;
     }
 
     .green-img span {
         left: 24px!important;
         top: 32px!important;
-        font-size: 12px!important;
+        font-size: 9px!important;
     }
 
     .title{
@@ -76,7 +77,7 @@
     }
 
     .course-title {
-        font-size: 10px !important;
+        font-size: 12px !important;
         padding: 0 0 0 10px!important;
     }
 
