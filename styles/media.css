@@ -81,6 +81,10 @@
         padding: 0 0 0 10px!important;
     }
 
+    .course-register p {
+        font-size: 12px!important;
+    }
+
     .range {
         width: 20px!important;
         height: 20px!important;
