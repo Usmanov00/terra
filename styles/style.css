@@ -156,7 +156,6 @@ a {
 .course-box {
     display: flex;
     text-align: center;
-
     padding-bottom: 40px;
     margin: 0 150px 0 300px;
     font-family: 'Source Code Pro', monospace;
@@ -334,6 +333,11 @@ u{
     border: #7d9ad2;
     border-radius: 7px;
     cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #269312;
+    transition: 0.4s;
 }
 
 
