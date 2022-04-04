@@ -13,7 +13,7 @@ body {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
 }
 
 a {
@@ -238,6 +238,24 @@ a {
 .founder-container{
     max-width: 1010px;
     color: #fff;
+}
+
+.founder-img{
+    width: 40%;
+
+}
+
+.founder-box{
+    top: -100px;
+    left: 0;
+
+}
+
+.img-img{
+    width: 40%;
+    border: 4px solid #bcd5ab;
+    border-radius: 50%;
+    box-shadow: 2px -1px 25px #269312;
 }
 
 
