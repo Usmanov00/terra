@@ -150,8 +150,7 @@ a {
 }
 
 .ourCourse-container{
-    align-items: center;
-
+    padding: 150px 0 0;
 }
 
 .course-box{
@@ -194,6 +193,51 @@ a {
     background-position: center center;
     border-color: transparent;
     border-style: solid;
+}
+
+.course-header{
+    color: #fff;
+    text-align: center;
+    margin-bottom: 50px;
+    padding-left: -10px;
+    font-size: 30px;
+    font-family: 'Russo One',Arial,sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    letter-spacing: 2px;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+
+.course-register{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.course-register img{
+    width: 40%;
+}
+
+.course-register p{
+    position: absolute;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Russo One',Arial,sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+
+.founder-container{
+    max-width: 1010px;
+    color: #fff;
 }
 
 
