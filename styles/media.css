@@ -91,6 +91,15 @@
 
     }
 
+    .content-center p {
+        margin-top: 0!important;
+        color: #fff;
+        font-size: 16px;
+        font-family: 'Source Code Pro', Arial, sans-serif;
+        line-height: 1.55;
+        font-weight: 400;
+    }
+
 
 
 
